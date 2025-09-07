@@ -1,2 +1,4 @@
-# Weather-App
-Weather app fetching live data using a free weather API.
+# Weather App  
+A weather application that fetches live weather data for any city using OpenWeatherMap API.  
+
+Tech: HTML, CSS, JavaScript  
